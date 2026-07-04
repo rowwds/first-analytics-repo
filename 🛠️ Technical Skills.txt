@@ -1,0 +1,29 @@
+🛠️ Technical Skills
+[ ] Microsoft Excel / Google SheetsSkills needed: 
+Data cleaning, XLOOKUP/VLOOKUP, PivotTables with calculated fields, and conditional formatting.
+My Current Proficiency: ___________
+
+[ ] SQL (Structured Query Language)
+Skills needed: Querying databases, using SELECT, WHERE, GROUP BY, aggregating data, and writing table JOINs.
+My Current Proficiency: ___________
+
+[ ] Data Visualization (Power BI or Tableau)
+Skills needed: Building clean, interactive dashboards, tracking KPIs, and choosing the right charts for business stakeholders.
+My Current Proficiency: ___________
+
+[ ] Programming (Python Focus) Skills needed: Fundamental data manipulation using libraries like pandas and basic plotting with matplotlib or seaborn. (Highly sought after by PH tech companies like Kooapps, Maya, or international firms in BGC).
+My Current Proficiency: ___________
+
+🧠 Core Workflow & Soft Skills
+
+[ ] Data Cleaning & Quality Assurance
+Skills needed: Spotting anomalies, dealing with missing values, removing duplicates, and ensuring data integrity before doing analysis.
+My Current Proficiency: ___________
+
+[ ] The Analytical Workflow (Data Life Cycle) 
+Skills needed: Translating a business question into an analytical task, doing the work, and tying findings back to the main objective.
+My Current Proficiency: ___________
+
+[ ] Presentation & Communication Skills
+Skills needed: The ability to explain technical charts and complex datasets in clean, simple terms to non-technical managers or clients.
+My Current Proficiency: ___________
